@@ -8,7 +8,7 @@ Site internet qui appel l'API REST COUNTRIES et qui affiche les pays selon le co
 ## Les techno utilisées : 
 * React
 
-## Mise en place du Front 
+## Mise en place 
 Ouvrir le dossier front dans le terminal de votre éditeur puis exécuter les commandes suivantes :
 ```
 npm install
